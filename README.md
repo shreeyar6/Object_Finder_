@@ -24,6 +24,7 @@ In today’s fast-paced world, it’s easy to misplace or lose valuable items. T
 ---
 
 ## ⚙️ Workflow
+![image](https://github.com/user-attachments/assets/03184651-e3a0-49c5-9e09-91ebf95ef841)
 
 
 ---
@@ -95,4 +96,7 @@ A simple mobile application:
 
 ## 📸 Screenshots & Output
 ![image](https://github.com/user-attachments/assets/4febfff4-b6ab-41a5-9030-52686f38882b)
+
+![image](https://github.com/user-attachments/assets/91685b7e-7584-49a4-943e-8471c1bfa309)
+
 
