@@ -94,9 +94,5 @@ A simple mobile application:
 ---
 
 ## 📸 Screenshots & Output
+![image](https://github.com/user-attachments/assets/4febfff4-b6ab-41a5-9030-52686f38882b)
 
-> *(Insert screenshots here using the format below)*
-
-```markdown
-![App Control](images/app_control.png)
-![Hardware Setup](images/hardware_setup.jpg)
